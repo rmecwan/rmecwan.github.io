@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rhythm Mecwan, upcoming Software Developer, Launches Site"
+title: "Rhythm Mecwan, Launches Site"
 date: 2018-01-08
 ---
 
